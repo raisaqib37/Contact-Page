@@ -1,0 +1,11 @@
+.main{
+    margin-left: 6.9rem;
+    padding: 0;
+}
+.main h1{
+    font-weight: 800;
+    font-size: 48px;
+}
+.main p{
+    max-width: 60vw;
+}

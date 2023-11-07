@@ -1,0 +1,61 @@
+.main{
+    /* max-width: 550px; */
+    display: flex;
+    gap: 111px;
+    margin-left: 110px;
+}
+.btns{
+    display: flex;
+    gap: 100px;
+    margin-top: 18px;
+}
+.butn{
+    margin-top: 12px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 22px;
+    margin-top: 45px;
+}
+form input{
+    height: 40px;
+    padding: 3px 8px;
+    width: 33rem;
+}
+form textarea{
+    width: 34.1rem;
+    padding: 3px 8px
+
+}
+form label{
+    background: white;
+}
+.name{
+    position: absolute;
+    left: 15px;
+    top: -11px;
+    padding: 0 8px;
+}
+.email{
+    position: absolute;
+    top: 54px;
+    left: 15px;
+    padding: 0 8px;
+}
+.text{
+    position: absolute;
+    top: 119px;
+    left: 15px;
+    padding: 0 8px;
+}
+.mid{
+    display: flex;
+    gap: 9rem;
+}
+.mid img{
+    position: relative;
+    top: -126px;
+    height: 500px;
+}

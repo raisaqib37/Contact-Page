@@ -1,0 +1,37 @@
+.primary_btn{
+    width: 14rem;
+    padding: 14px 16px;
+    background: #000;
+    color: white;
+    font-weight: 500;
+    border: hidden;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    border-radius: 7px;
+}
+.primary_btn:hover{
+  background-color: rgb(42, 152, 255);
+}
+.secondary_btn{
+    width: 34.4rem;
+    padding: 14px 16px;
+    background: white;
+    color: black;
+    font-weight: 500;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-size: 16px;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+.primary_btn:hover{
+  background-color: rgb(0, 204, 255);
+  transition: 0.2s ease-in-out;
+}
